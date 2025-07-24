@@ -391,6 +391,7 @@ function M:render_fallback(state)
       a = "p",
       i = self.img.id,
       p = self.id,
+      A = "l",
       C = 1,
       c = state.loc.width,
       r = state.loc.height,
